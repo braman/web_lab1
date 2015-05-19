@@ -1,4 +1,3 @@
 function alertMessage(val) {
-
-				alert(val);
-			}
+	alert("Hello " + val);
+}
